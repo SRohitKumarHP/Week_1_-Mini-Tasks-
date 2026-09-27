@@ -20,6 +20,7 @@ Open a new terminal in the project folder and run:
 pip install opencv-python
 pip install numpy
 ```
+
 ## Running the Programs
 After installing the required libraries, you can run any Python program from the terminal.
 Use the following command:
