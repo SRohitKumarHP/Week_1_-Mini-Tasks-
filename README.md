@@ -38,3 +38,6 @@ python ImageShapeCV2.py
 ```
 
 ## Notes
+- Make sure the required input images are available in the correct folder.
+- Make sure you run the commands from the folder containing the Python files.
+- Install all required libraries before running the programs.
