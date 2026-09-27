@@ -2,7 +2,7 @@
 
 Python-OpenCV setup and a mini task to build image-processing programs using OpenCV.
 
-The programs in this week include operations such as reading images, converting images to grayscale, resizing, rotating, and performing other basic image-processing operations.
+The programs this week include reading images, converting them to grayscale, resizing, rotating, and performing other basic image-processing operations.
 
 ## Prerequisites
 
